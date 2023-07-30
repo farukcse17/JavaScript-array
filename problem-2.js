@@ -5,37 +5,7 @@
 // peterScore = 56; 
 // johnScore = 40;
 
-// function getGrade(score) {
-//     if (score >= 80) {
-//       return "A";
-//     } else if (score >= 60) {
-//       return "B";
-//     } else if (score >= 50) {
-//       return "C";
-//     } else if (score >= 40) {
-//       return "D";
-//     } else {
-//       return "F";
-//     }
-//   }
-  
-//   const tomScore = 66;
-//   const myScore = 85;
-//   const janeScore = 95;
-//   const peterScore = 56; 
-//   const johnScore = 40;
-  
-//   const tomGrade = getGrade(tomScore);
-//   const myGrade = getGrade(myScore);
-//   const janeGrade = getGrade(janeScore);
-//   const peterGrade = getGrade(peterScore);
-//   const johnGrade = getGrade(johnScore);
-  
-//   console.log(`Tom's score: ${tomScore}, Grade: ${tomGrade}`);
-//   console.log(`My score: ${myScore}, Grade: ${myGrade}`);
-//   console.log(`Jane's score: ${janeScore}, Grade: ${janeGrade}`);
-//   console.log(`Peter score: ${peterScore}, Grade: ${peterGrade}`);
-//   console.log(`John score: ${johnScore}, Grade: ${johnGrade}`);
+// c
 
 // My result
 // if(myScore >= 80){
